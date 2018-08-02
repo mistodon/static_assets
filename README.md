@@ -1,3 +1,10 @@
+# NOTE: This project has been renamed
+
+GitHub repo is here: https://github.com/mistodon/resource
+Crate is here: https://crates.io/crates/resource
+
+If anyone happens to want the `static_assets` crate name, feel free to contact me and I'll hand it over.
+
 # static_assets
 
 The `static_assets` crate contains macros for statically including assets in release mode, but dynamically loading them in debug mode.
